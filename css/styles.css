@@ -1,0 +1,236 @@
+
+header {
+
+background-image: url("../img/fondohead1.jpg");
+background-color: #1D1D1D;
+background-repeat: no-repeat;
+background-size: 100%;
+color: #fff;
+}
+
+#tabla1 td:hover {
+  color: #C7C005;
+}
+
+.botonheader {
+background-color: #3E3E3E;
+width: 350px;
+height: 50px;
+color: #C7C005
+}
+
+.botonheader:hover {
+  background-color: #C7C005;
+  color: #fff;
+}
+
+.conjunto {
+  display: flex;
+  padding: 20px;
+}
+
+.imagenluffy {
+  margin-right: 20px;
+}
+
+.contenidocabecera {
+  color: #fff;
+}
+
+.titulo {
+  background-color: #000;
+  padding: 10px;
+}
+
+.textocabecer {
+  padding: 10px;
+}
+
+body {
+  background-color: #1D1D1D;
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+}
+
+#izquierda {
+  flex: 0 0 auto;
+  margin-right: 20px;
+}
+
+#derecha {
+  flex: 1 1 auto;
+}
+
+#tabla2 {
+  border: none;
+  border-collapse: collapse;
+}
+	
+.black1:hover {
+  background-color: #000;
+}
+
+.black2:hover {
+  background-color: #000;
+}
+
+.black3:hover {
+  background-color: #000;
+}
+
+.black4:hover {
+  background-color: #000;
+}
+
+.black5:hover {
+  background-color: #000;
+}
+
+.black6:hover {
+  background-color: #000;
+}
+
+.black7:hover {
+  background-color: #000;
+}
+
+.black8:hover {
+  background-color: #000;
+}
+
+.filanegra {
+  background-color: #000;
+}
+
+#tabla3 {
+      border-spacing: 10px;
+    }
+
+.boton1 {
+background-color: #000;
+width: 32%;
+height: 50px;
+color: #fff;
+border: none;
+}
+
+.boton1:hover {
+  background-color: #C7C005;
+  color: #000;
+border: none;
+}
+
+.boton2 {
+background-color: #000;
+width: 32%;
+height: 50px;
+color: #fff;
+border: none;
+}
+
+.boton2:hover {
+  background-color: #C7C005;
+  color: #000;
+  border: none;
+}
+.boton3 {
+background-color: #000;
+width: 32%;
+height: 50px;
+color: #fff;
+border: none;
+}
+
+.boton3:hover {
+  background-color: #C7C005;
+  color: #000;
+border: none;
+}
+
+.boton4 {
+background-color: #000;
+width: 48.5%;
+height: 50px;
+color: #fff;
+border: none;
+}
+
+.boton4:hover {
+  background-color: #C7C005;
+  color: #000;
+border: none;
+}
+
+.boton5 {
+background-color: #000;
+width: 48.5%;
+height: 50px;
+color: #fff;
+border: none;
+}
+
+.boton5:hover {
+  background-color: #C7C005;
+  color: #000;
+}
+
+.boton6 {
+background-color: #000;
+width: 48.5%;
+height: 50px;
+color: #fff;
+border: none;
+}
+
+.boton6:hover {
+  background-color: #C7C005;
+  color: #000;
+}
+.amarillo {
+	color: #C7C005
+}
+
+.filaroja {
+	background-color: #7A0002;
+}
+
+.filagris {
+  background-color: #424141;
+}
+
+.filagranate {
+  background-color: #8A1B1D;
+}
+
+footer {
+  background-color: #8A1B1D;
+	color: #fff;
+}
+
+.granate1:hover {
+  background-color: #3E0203;
+}
+
+.granate2:hover {
+  background-color: #3E0203;
+}
+
+.granate3:hover {
+  background-color: #3E0203;
+}
+
+.granate4:hover {
+  background-color: #3E0203;
+}
+
+.granate5:hover {
+  background-color: #3E0203;
+}
+
+.granate6:hover {
+  background-color: #3E0203;
+}
